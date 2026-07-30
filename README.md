@@ -6,7 +6,7 @@ A full-stack web application for detecting potentially fraudulent credit card tr
 
 This project implements a rule-based credit card fraud detection platform that allows users to securely manage accounts, submit transactions, and automatically identify suspicious transaction patterns.
 
-Rather than relying on machine learning, fraud detection is implemented directly within PostgreSQL using SQL triggers. This approach enables immediate detection of suspicious activity as transactions are recorded while maintaining strong data integrity and application performance.
+Fraud detection is implemented directly within PostgreSQL using SQL triggers. This approach enables immediate detection of suspicious activity as transactions are recorded while maintaining strong data integrity and application performance.
 
 The application combines a Flask backend, PostgreSQL database, Supabase Authentication, and a web-based interface to provide an end-to-end transaction management system.
 
