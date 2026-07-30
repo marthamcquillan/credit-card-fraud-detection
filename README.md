@@ -57,7 +57,7 @@ This repository represents a collaborative software engineering project with San
 
 My primary contributions included:
 
-- Designing he PostgreSQL relational database schema
+- Designing the PostgreSQL relational database schema
 - Implementing SQL triggers for rule-based fraud detection
 - Building secure login and authentication using Supabase
 - Developing Flask backend functionality for user account management
